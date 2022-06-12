@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b4644870-073f-4f3b-b3d8-269848ca63df" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="18" />
+    <option name="width" value="1258" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectId" id="1Xs7asYfZgPPNlWateXbyMVbMDH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="FoothillTunesStore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="subsetsum.FoothillTunesStore" />
+      <module name="nhxv-cs1c-project02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="subsetsum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShoppingBag" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="subsetsum.ShoppingBag" />
+      <module name="nhxv-cs1c-project02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="subsetsum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="subsetsum.Test" />
+      <module name="nhxv-cs1c-project02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="subsetsum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.FoothillTunesStore" />
+        <item itemvalue="Application.ShoppingBag" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4644870-073f-4f3b-b3d8-269848ca63df" name="Default Changelist" comment="" />
+      <created>1579055268063</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579055268063</updated>
+      <workItem from="1579055269282" duration="7251000" />
+      <workItem from="1579111648953" duration="599000" />
+      <workItem from="1579113814120" duration="3051000" />
+      <workItem from="1579161601474" duration="20223000" />
+      <workItem from="1579186966889" duration="10610000" />
+      <workItem from="1579233329704" duration="17038000" />
+      <workItem from="1579255778518" duration="683000" />
+      <workItem from="1580152929776" duration="610000" />
+      <workItem from="1580321248360" duration="16000" />
+      <workItem from="1580494196506" duration="827000" />
+      <workItem from="1580757439964" duration="862000" />
+      <workItem from="1580851691754" duration="1306000" />
+      <workItem from="1581823015525" duration="77000" />
+      <workItem from="1581823304659" duration="1838000" />
+      <workItem from="1581905141539" duration="9000" />
+      <workItem from="1582148111321" duration="406000" />
+      <workItem from="1583648134354" duration="802000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="778" y="402" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1581823044511">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="778" y="402" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581823044511" />
+    <state width="1865" height="292" key="GridCell.Tab.0.bottom" timestamp="1582148517444">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="292" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582148517444" />
+    <state width="1865" height="292" key="GridCell.Tab.0.center" timestamp="1582148517444">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="292" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582148517444" />
+    <state width="1865" height="292" key="GridCell.Tab.0.left" timestamp="1582148517444">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="292" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582148517444" />
+    <state width="1865" height="292" key="GridCell.Tab.0.right" timestamp="1582148517444">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="292" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582148517444" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>1</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

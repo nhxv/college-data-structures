@@ -1,0 +1,22 @@
+(Screenshot of the graph with all array sizes overlaid: https://gyazo.com/8335b39f0014253b31df6f31b1fb44f1)
+From this graph, I can see that there's a significant time fluctuation when recursion limit value is smaller than 6-10,
+regardless of array size.
+
+Given the run time difference between multiple array size, it seems that this quick sort implementation is faster than
+O(n^2) worst case complexity.
+
+(Screenshot of the graph with a single array size: https://gyazo.com/05f0fbe5d8d261eadb2055adf860869f)
+A closer look at the graph for a single array shows that the time fluctuation when recursion limit value is small is
+not dependent on array size.
+
+(Screenshot of the range of interest: https://gyazo.com/c5cc0a0bdb3c0e366e6458f59e105f01)
+The graph shows that running times only fluctuate significantly when recursion limit is very small. When recursion limit
+is in the 290-300 or the 14-50 range, running times are roughly the same.
+
+I think this happens because when recursion limit is too small, quick sort method will have to sort the partitions in a
+quick sort way (the condition left + recursionLimit < right is more likely to be true), which involves picking the pivot
+and makes two recursive calls, instead of just calling insertion sort.
+
+Given the fact that run time doesn't change much when recursion increases, I think an optimal recursion limit value
+should be in the 14-26 range.
+

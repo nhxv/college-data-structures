@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5f22e4d3-832c-493b-a22d-018080fe57ea" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XgtBX3g6opCe8F10xiGwXxzpvT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../course_examples" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Week5.BinarySearchTree" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f22e4d3-832c-493b-a22d-018080fe57ea" name="Default Changelist" comment="" />
+      <created>1581283063518</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581283063518</updated>
+      <workItem from="1581283064675" duration="20599000" />
+      <workItem from="1581393961679" duration="2283000" />
+      <workItem from="1581479430882" duration="874000" />
+      <workItem from="1581573804641" duration="526000" />
+      <workItem from="1581636575481" duration="339000" />
+      <workItem from="1581759195601" duration="1070000" />
+      <workItem from="1581764715062" duration="1238000" />
+      <workItem from="1581767878878" duration="1365000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="783" y="402" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1581479435071">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="783" y="402" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581479435071" />
+    <state width="1865" height="268" key="GridCell.Tab.0.bottom" timestamp="1581760596051">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="268" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581760596051" />
+    <state width="1865" height="268" key="GridCell.Tab.0.center" timestamp="1581760596051">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="268" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581760596051" />
+    <state width="1865" height="268" key="GridCell.Tab.0.left" timestamp="1581760596051">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="268" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581760596051" />
+    <state width="1865" height="268" key="GridCell.Tab.0.right" timestamp="1581760596051">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="268" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581760596051" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

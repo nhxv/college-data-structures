@@ -1,0 +1,107 @@
+// Part 1
+
+// file: music_genre_subset.json
+Total number of songs read 59600
+Test file for id table: resources/findIDs.txt
+
+Finding song id: 2
+Song id 2 found in tableOfSongIDs.
+
+Finding song id: 3
+Song id 3 found in tableOfSongIDs.
+
+Finding song id: 4
+Song id 4 found in tableOfSongIDs.
+
+Finding song id: 99
+Song id 99 found in tableOfSongIDs.
+
+Finding song id: 99999
+Song id 99999 NOT found in tableOfSongIDs.
+Done with testing table of ids.
+
+Test file for genre table: resources/findGenres.txt
+
+Number of store songs in each genre:
+classic pop and rock 	  23895
+                punk 	   3200
+                folk 	  13192
+                 pop 	   1617
+dance and electronica 	   4935
+               metal 	   2103
+      jazz and blues 	   4334
+           classical 	   1874
+             hip-hop 	    434
+     soul and reggae 	   4016
+
+Finding genre: pop
+Genre "pop" found in tableOfGenres.
+
+Finding genre: classic pop and rock
+Genre "classic pop and rock" found in tableOfGenres.
+
+Finding genre: FOOTHILL
+Genre "FOOTHILL" NOT found in tableOfGenres.
+Done with testing table of genres.
+
+
+Done with MyTunes.
+
+// file: test.json
+Total number of songs read 10
+Test file for id table: resources/findIDs.txt
+
+Finding song id: 2
+Song id 2 found in tableOfSongIDs.
+
+Finding song id: 3
+Song id 3 found in tableOfSongIDs.
+
+Finding song id: 4
+Song id 4 found in tableOfSongIDs.
+
+Finding song id: 99
+Song id 99 NOT found in tableOfSongIDs.
+
+Finding song id: 99999
+Song id 99999 NOT found in tableOfSongIDs.
+Done with testing table of ids.
+
+Test file for genre table: resources/findGenres.txt
+
+Number of store songs in each genre:
+classic pop and rock 	     10
+
+Finding genre: pop
+Genre "pop" NOT found in tableOfGenres.
+
+Finding genre: classic pop and rock
+Genre "classic pop and rock" found in tableOfGenres.
+
+Finding genre: FOOTHILL
+Genre "FOOTHILL" NOT found in tableOfGenres.
+Done with testing table of genres.
+
+
+Done with MyTunes.
+
+// Part 2: Benchmark
+Total number of songs read 10
+Sequential find time: 0 hrs : 0 mins : 0 sec : 0 ms : 3700 ns
+Hashtable find time: 0 hrs : 0 mins : 0 sec : 0 ms : 35200 ns
+
+Total number of songs read 100
+Sequential find time: 0 hrs : 0 mins : 0 sec : 0 ms : 8300 ns
+Hashtable find time: 0 hrs : 0 mins : 0 sec : 0 ms : 34500 ns
+
+Total number of songs read 1000
+Sequential find time: 0 hrs : 0 mins : 0 sec : 0 ms : 25500 ns
+Hashtable find time: 0 hrs : 0 mins : 0 sec : 0 ms : 35200 ns
+
+Total number of songs read 10000
+Sequential find time: 0 hrs : 0 mins : 0 sec : 0 ms : 365200 ns
+Hashtable find time: 0 hrs : 0 mins : 0 sec : 0 ms : 37100 ns
+
+Graphical representation: https://gyazo.com/9cd54c96442b3ca3d7f82e3f9478ea7d
+Hashtable find time stays pretty much the same, while Sequential increase linearly when number of items increase.
+

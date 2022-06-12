@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c029150-c63d-4790-8559-a0ef454cf72b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/nhxv-cs1c-project04.iml" beforeDir="false" afterPath="$PROJECT_DIR$/nhxv-cs1c-project04.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="18" />
+    <option name="width" value="1258" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectId" id="1Xs6ZOGOlIY7JzaeN7jiTAHAMDj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MyTunes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="queues.MyTunes" />
+      <module name="nhxv-cs1c-project04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="queues.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyTunes" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c029150-c63d-4790-8559-a0ef454cf72b" name="Default Changelist" comment="" />
+      <created>1580321396299</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580321396299</updated>
+      <workItem from="1580321397703" duration="6000" />
+      <workItem from="1580613401219" duration="4938000" />
+      <workItem from="1580658822375" duration="230000" />
+      <workItem from="1580659306101" duration="182000" />
+      <workItem from="1580662322602" duration="3000" />
+      <workItem from="1580680701762" duration="6679000" />
+      <workItem from="1580776771967" duration="49000" />
+      <workItem from="1580785108750" duration="2410000" />
+      <workItem from="1580850724921" duration="2560000" />
+      <workItem from="1580871402192" duration="2643000" />
+      <workItem from="1580926783569" duration="206000" />
+      <workItem from="1580927125836" duration="185000" />
+      <workItem from="1581055319486" duration="186000" />
+      <workItem from="1581822511335" duration="497000" />
+      <workItem from="1581823314293" duration="4183000" />
+      <workItem from="1582180178602" duration="608000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1865" height="303" key="GridCell.Tab.0.bottom" timestamp="1581829916332">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="303" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581829916332" />
+    <state width="1865" height="303" key="GridCell.Tab.0.center" timestamp="1581829916332">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="303" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581829916332" />
+    <state width="1865" height="303" key="GridCell.Tab.0.left" timestamp="1581829916332">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="303" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581829916332" />
+    <state width="1865" height="303" key="GridCell.Tab.0.right" timestamp="1581829916332">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="303" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581829916332" />
+    <state x="312" y="0" key="SettingsEditor" timestamp="1581822589654">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="312" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1581822589654" />
+  </component>
+</project>

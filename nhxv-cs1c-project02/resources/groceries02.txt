@@ -1,0 +1,5 @@
+beef,12
+cheese,10
+milk,4
+tomato,3
+fish,10

@@ -1,0 +1,6 @@
+yogurt,2
+potato,2.5
+carrot,3
+orange,5
+coffee,7
+banana,4
